@@ -1,3 +1,3 @@
 # Blockchain Technology
 
-< Blockchain is used in distributed systems.
+> Blockchain is used in distributed systems.
